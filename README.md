@@ -1,3 +1,8 @@
-# Review_Of_Wine_Properties
+# Review_Of_Wines_Properties
 
 ### Table of contents
+
+   + [Intro](#intro)
+   + [Used packages](#used-packages)
+   + [Data preparation](#data-preparation)
+   
