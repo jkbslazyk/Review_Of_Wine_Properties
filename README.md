@@ -30,3 +30,8 @@ This divided plot shows relationships between selected chemical compounds conten
 In general there is no any clear relationship.
 
 ![FirstPlot](plots/Plot1.png)
+
+### Alcohol content
+This histogram shows alcohol content for every sample and average alcohol content.
+
+![SecondPlot](plots/Plot2.png)
