@@ -29,4 +29,4 @@ This part contains plots which help us better understand data.
 This divided plot shows relationships between selected chemical compounds content and alcohol value.  
 In general there is no any clear relationship.
 
-![FirstPlot](plots/Plot.png)
+![FirstPlot](plots/Plot1.png)
