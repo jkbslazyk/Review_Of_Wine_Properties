@@ -32,7 +32,7 @@ In general there is no any clear relationship.
 ![FirstPlot](plots/Plot1.png)
 
 ### Alcohol content
-This histogram shows alcohol content for every sample and average alcohol content.
+This histogram shows alcohol content for every sample and average alcohol content. Almost half of samples lie in range 9-10%.
 
 ![SecondPlot](plots/Plot2.png)
 
@@ -41,3 +41,5 @@ This plot proves us some obvious relationship between Fixed Acidity and pH. The 
 Samples was grouped by Quality for more clarity.
 
 ![ThirdPlot](plots/Plot3.png)
+
+###
