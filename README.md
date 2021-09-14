@@ -42,4 +42,7 @@ Samples was grouped by Quality for more clarity.
 
 ![ThirdPlot](plots/Plot3.png)
 
-###
+### Alcohol Ratio and Quality
+In this plot we can observe an interesting phenomenon. Quality of high percentage wines (>10.9%) is higher than rest wines. This plots shows also that mostly wines are classfied as average.
+
+![FourthPlot](plots/Plot4.png)
