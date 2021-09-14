@@ -35,3 +35,9 @@ In general there is no any clear relationship.
 This histogram shows alcohol content for every sample and average alcohol content.
 
 ![SecondPlot](plots/Plot2.png)
+
+### Fixed Acidity
+This plot proves us some obvious relationship between Fixed Acidity and pH. The lower level of Fixed Acidity, the higher pH.  
+Samples was grouped by Quality for more clarity.
+
+![ThirdPlot](plots/Plot3.png)
