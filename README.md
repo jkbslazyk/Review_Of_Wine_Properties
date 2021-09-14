@@ -46,3 +46,8 @@ Samples was grouped by Quality for more clarity.
 In this plot we can observe an interesting phenomenon. Quality of high percentage wines (>10.9%) is higher than rest wines. This plots shows also that mostly wines are classfied as average.
 
 ![FourthPlot](plots/Plot4.png)
+
+### Different kinds of Acidity
+In analyzed dataset we can find two types of Acidity. I used Density to compare Volatile and Fixed Acidity and find some relationships. There is an increasing trend for Fixed Acidity: The higher Fixed Acidity, the higher Density.
+
+![FifthPlot](plots/Plot5.png)
