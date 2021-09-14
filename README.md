@@ -26,7 +26,7 @@ My data were completly so I didn't have to prepere/change them before moving on.
 This part contains plots which help us better understand data.
    
 ### Selected chemical compounds content depending on alcohol value
-This divided plot shows relationships between selected chemical compounds content and alcohol value.\n 
+This divided plot shows relationships between selected chemical compounds content and alcohol value.  
 In general there is no any clear relationship.
 
 ![FirstPlot](plots/Plot1.png)
