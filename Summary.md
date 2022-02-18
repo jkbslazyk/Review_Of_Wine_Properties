@@ -19,7 +19,7 @@ R packages used in the code:
 My data were completly so I didn't have to prepere/change them before moving on.
 
 ### Visualization
-This part contains plots which help us better understand data.
+This part contains plots which help us better understand data. 
    
 ### Selected chemical compounds content depending on alcohol value
 This divided plot shows relationships between selected chemical compounds content and alcohol value.  
