@@ -5,7 +5,7 @@ library("plotly")
 library("latticeExtra")
 
 #Import data from csv file
-wine<-read.csv(file="Slazyk_Dane_Surowe.csv", header=TRUE, dec=".", fill=TRUE, sep=",")
+wine<-read.csv(file="Dane_Surowe.csv", header=TRUE, dec=".", fill=TRUE, sep=",")
 
 #Checking for missing data
 print("Czy dane zawieraja braki?")
